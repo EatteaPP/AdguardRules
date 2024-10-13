@@ -1,0 +1,22 @@
+#criteo
+||criteo.com^$important
+
+#appier
+||appier.com^$important
+||appier.org^$important
+
+#Some AD site was found
+||advertising.com^$important
+
+#other
+||smart.link^$important
+||adjust.com^$important
+||adjust.com^$important
+||system1.com^$important
+||yandex.ru^$important
+
+#amazon
+||advice-ads.s3.amazonaws.com^$important
+
+#426網站
+||qiyukf.net^$important
