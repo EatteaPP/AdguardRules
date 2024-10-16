@@ -20,3 +20,6 @@
 
 #426網站
 ||qiyukf.net^$important
+
+av site af
+||go.myavlive.com^$important
