@@ -21,5 +21,8 @@
 #426網站
 ||qiyukf.net^$important
 
-av site af
+#av site af
 ||go.myavlive.com^$important
+
+#pchome 2024.10.20
+||kdcl.pchome.com.tw^$important
