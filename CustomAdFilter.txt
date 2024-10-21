@@ -26,3 +26,6 @@
 
 #pchome 2024.10.20
 ||kdcl.pchome.com.tw^$important
+
+# suspicious redirect
+||jjlsiakq.pro^$important
