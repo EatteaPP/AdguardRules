@@ -23,6 +23,7 @@
 ||linecrs.line-scdn.net^$important
 ||voom-assets.line-scdn.net^$important
 ||obs.line-scdn.net^$important
+@@voom-obs.line-scdn.net^$important
 ||today-obs.line-scdn.net^$important
 ||voom-obs.line-scdn.net^$important
 ||today.line.me^$important

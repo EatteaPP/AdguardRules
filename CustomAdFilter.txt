@@ -29,3 +29,7 @@
 
 # suspicious redirect
 ||jjlsiakq.pro^$important
+||blazetransfer.cfd^$important
+||cloudferry.cfd^$important
+||sharecube.pro^$important
+||sharesphere.cfd^$important
