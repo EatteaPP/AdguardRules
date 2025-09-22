@@ -33,3 +33,7 @@
 ||cloudferry.cfd^$important
 ||sharecube.pro^$important
 ||sharesphere.cfd^$important
+
+#嘗試阻擋 作用不明
+||es.ebc.net.tw^$important
+
