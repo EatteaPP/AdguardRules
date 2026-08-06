@@ -38,3 +38,11 @@
 ||es.ebc.net.tw^$important
 #第三方廣告
 ||popin.cc^$important
+
+#20260807小說網站廣告
+||coseismcimeter.qpon^$important
+||iulustam.cfd^$important
+||seggedelijah.cfd^$important
+||chequycmdr.qpon^$important
+||kh.cheatedgret.shop^$important
+||buripingo.shop^$important
