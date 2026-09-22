@@ -26,3 +26,5 @@
 ||today-obs.line-scdn.net^$important
 ||voom-obs.line-scdn.net^$important
 ||today.line.me^$important
+! 20260922 add
+||lap-click.tr.line.me^$important
