@@ -28,3 +28,4 @@
 ||today.line.me^$important
 ! 20260922 add
 ||lap-click.tr.line.me^$important
+||ad.line-scdn.net^$important
