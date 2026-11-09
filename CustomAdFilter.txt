@@ -57,3 +57,6 @@
 ||orie8.com
 ||indoneviler.rest
 ||buffermotivatorsuffice.com
+
+#block all cyou 20261109
+||cyou^
